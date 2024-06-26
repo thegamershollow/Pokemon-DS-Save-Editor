@@ -1,7 +1,7 @@
 import binascii as bin
 import numpy as np
 from pathlib import Path
-savFilePath = '/Users/Cal/Library/CloudStorage/OneDrive-Cash-PetersonConsulting/Documents/Github/Pokemon-DS-Save-Editor/100%.sav'
+savFilePath = '100%.sav'
 savFile = open(savFilePath, 'rb')
 
 #* Text Decoder
